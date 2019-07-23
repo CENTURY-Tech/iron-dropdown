@@ -1,0 +1,12 @@
+{
+  "name": "iron-dropdown",
+  "version": "1.5.7",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1",
+    "iron-behaviors": "github:CENTURY-Tech/iron-behaviors#v1.0.19",
+    "iron-overlay-behavior": "github:CENTURY-Tech/iron-overlay-behavior#v1.10.5",
+    "iron-resizable-behavior": "github:CENTURY-Tech/iron-resizable-behavior#v1.0.7",
+    "neon-animation": "github:CENTURY-Tech/neon-animation#v1.2.6"
+  },
+  "private": true
+}
